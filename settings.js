@@ -63,7 +63,7 @@ tag10 = '𝘈𝘺𝘰𝘰 Shamoru Hanagaki 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚'
 
 
 global.mess = {
-    success: 'Work good 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
+    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
     admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑",
     botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
     owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
